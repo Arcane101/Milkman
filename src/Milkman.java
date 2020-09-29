@@ -21,7 +21,7 @@ public class Milkman {
         System.out.println(timer2.getTime());
         JDABuilder builder = new JDABuilder();
         cookieResetTimer timer = new cookieResetTimer();
-        builder.setToken("NzQyMTU3MDk1ODg5MTQxODYw.XzCBqA.YLiAQ8iZn0-EbJQZvrN5jAdWuHY");
+        builder.setToken("********************************************");
         builder.setStatus(OnlineStatus.ONLINE);
         builder.setActivity(Activity.playing("In Fayth's House \uD83E\uDD5B || ~cmds"));
         SpankCounter.loadSpanks();
